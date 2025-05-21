@@ -24,3 +24,5 @@
   to isolate problems. There's usally a maximum amount of electricity than
   can run through each circuit. Maybe 15 or 20 amps. If it's exceeded then
   the breaker trips.
+- You can clean with vinegar and you can clean with bleach, but never ever
+  mix the two because the result is chlorine gas which is leathal.
