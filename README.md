@@ -35,7 +35,7 @@
   on my hands. Apparently that's caused by a bacteria. Every few days I fill the
   sponge with water and microwave it for 90 seconds.
 - Put dish soap in a cheap squeeze bottle (you can get them from restaurant supply stores)
-- Restaurant supply stores exist. They sell high quality kitch stuff much cheaper than normal retail. Find one that allows the public to shop there (some require you own a business)
+- Restaurant supply stores exist. They sell high quality kitchen stuff much cheaper than normal retail. Find one that allows the public to shop there (some require you own a business)
 - Parchment paper is awesome. The sheets are even more convenient than the rolls. I
   keep around the 12"x16" sheets and the 6"x6" sheets. I use them all over the kitchen
   when I want to make cleanup easier. I put them on the cutting board when cutting stuff,
