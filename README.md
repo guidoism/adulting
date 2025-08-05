@@ -9,8 +9,6 @@
   designed to kill wasps. Weird. And it's super satisfying to spray mosquitos
   while they are flying with a fine mist. They just go plop down to the ground
   upon contact.
-- Put dish soap in a cheap squeeze bottle (you can get them from restaurant supply stores)
-- Restaurant supply stores exist. They sell high quality kitch stuff much cheaper than normal retail. Find one that allows the public to shop there (some require you own a business)
 - If some of your electricity is out but not all then you'd probably
   tripped a breaker. There's a panel that allows you reset the
   breaker. Turn it off then on again. If it trips again then there's
@@ -26,3 +24,17 @@
   the breaker trips.
 - You can clean with vinegar and you can clean with bleach, but never ever
   mix the two because the result is chlorine gas which is leathal.
+
+# Kitchen
+
+- Don't buy the sponge + scouring pads combos that they sell at the grocery store.
+  Instead buy separate packs of blue scouring pads on Amazon (you can get a 100 for
+  under $20) and sponges that come flat. I like both of them smaller so I cut them
+  both in half.
+- Sponges start to stink after a week or two. They leave a horrible metalic smell
+  on my hands. Apparently that's caused by a bacteria. Every few days I fill the
+  sponge with water and microwave it for 90 seconds.
+- Put dish soap in a cheap squeeze bottle (you can get them from restaurant supply stores)
+- Restaurant supply stores exist. They sell high quality kitch stuff much cheaper than normal retail. Find one that allows the public to shop there (some require you own a business)
+
+
