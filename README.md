@@ -1,3 +1,12 @@
+# Motivation
+
+This exists because I'm in my late 40s and I'm still learning these tricks
+and everytime I learn something new I'm frustrated that if I had learned
+it years (or decades) earlier I would have been able to go through life
+just a tad easier. I wish I had a cheat sheet for *adulting*.
+
+This is that cheat sheet I wish I had.
+
 # Awesome Adulting
 
 - Drink water throughout the day. If plain water is too boring try sparkling.
