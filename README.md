@@ -36,5 +36,11 @@
   sponge with water and microwave it for 90 seconds.
 - Put dish soap in a cheap squeeze bottle (you can get them from restaurant supply stores)
 - Restaurant supply stores exist. They sell high quality kitch stuff much cheaper than normal retail. Find one that allows the public to shop there (some require you own a business)
-
+- Parchment paper is awesome. The sheets are even more convenient than the rolls. I
+  keep around the 12"x16" sheets and the 6"x6" sheets. I use them all over the kitchen
+  when I want to make cleanup easier. I put them on the cutting board when cutting stuff,
+  I put them over cookie sheets when baking.
+- You can make parchment paper take another shape by putting it under warm water and
+  crumple it into a wad and then open it back up. It will take the shape of containers
+  better that way.
 
