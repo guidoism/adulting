@@ -57,5 +57,9 @@ This is that cheat sheet I wish I had.
   "OMG this is so sharp compared to my old knife", yeah that's still not sharp enough. There
   exist knife sharpening services that usually charge a dollar per inch. These are the best
   but they are inconvenient. Once you have the money buy an electric home sharpener like
-  the ChefsChoice XV15 then sharpen your knife as needed, maybe twice a year.
+  the ChefsChoice XV15 then sharpen your knife as needed, maybe twice a year. Some people
+  will say that you are going to ruin your knives if you try to do it yourself, but I consider
+  my knife a tool and there may be a time, decades from now, when I have to replace it because
+  of these home sharpenings, but I would much rather have a very sharp knife at all times for
+  several decades then a less sharp knife that lasts a 100 years.
 
