@@ -55,7 +55,7 @@ This is that cheat sheet I wish I had.
 - Keep your knives sharp. That honing rod you have is not a sharpener. Learn the difference.
   You know that feeling when you buy a new knife and you are like
   "OMG this is so sharp compared to my old knife", yeah that's still not sharp enough. There
-  exist knife sharpening service that usually charge a dollar per inch. These are the best
+  exist knife sharpening services that usually charge a dollar per inch. These are the best
   but they are inconvenient. Once you have the money buy an electric home sharpener like
   the ChefsChoice XV15 then sharpen your knife as needed, maybe twice a year.
 
