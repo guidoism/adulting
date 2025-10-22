@@ -14,10 +14,16 @@ needs at the bare minimum to not fail in modern society circa 2025.
 # Universal Capabilities (the “Minimum Viable Adult”)
 
 ## 1. Income & Household Ops
- - Outcome:
-    - [ ] Live within means; plan cash-flow; comparison-shop; cook, launder, maintain a room.
- - Minimum proficiency: Build a 12-month budget with buffer; file a simple tax return; plan & shop 7 nutritious dinners under a cost target; maintain a weekly “life ops” checklist.
- - Evidence: Budget+cashflow sheet; filed-tax simulation; 7-meal plan with receipts; weekly ops log.
+### Outcome: 
+- [ ] Live within means
+- [ ] Plan cash-flow
+- [ ] Comparison-shop
+- [ ] Cook
+- [ ] Launder
+- [ ] Maintain a room
+### Minimum proficiency: Build a 12-month budget with buffer; file a simple tax return; plan & shop 7 nutritious dinners under a cost target; maintain a weekly “life ops” checklist.
+### Evidence: Budget+cashflow sheet; filed-tax simulation; 7-meal plan with receipts; weekly ops log.
+
 
 ## 2. Quantitative Decision-Making (Spreadsheet-first)
  - Outcome: Make choices with numbers, not vibes.
