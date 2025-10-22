@@ -63,3 +63,10 @@ This is that cheat sheet I wish I had.
   of these home sharpenings, but I would much rather have a very sharp knife at all times for
   several decades then a less sharp knife that lasts a 100 years.
 
+# References / Further Reading
+
+* [Minimum Viable Adult](minimum-viable-adult)
+
+
+
+
