@@ -284,3 +284,10 @@ needs at the bare minimum to not fail in modern society circa 2025.
 - [ ] Capstone artifact (repo, report, video, or product)
 - [ ] SRS deck export and review stats
 - [ ] Retro write-up with next iteration plan
+
+# What to de-emphasize from traditional schooling
+- Excess algebraic manipulation drills for non-technical paths (keep mathematical thinking; shift time to spreadsheets, statistics, and modeling).
+- Five-paragraph essay as the dominant form (replace with memos, briefs, proposals, and technical notes).
+- Decontextualized lab “cookbooks” without decisions or tradeoffs (replace with real-world experiments tied to choices).
+- “Digital citizenship posters” without operational security habits (replace with practiced checklists and drills).
+- Clerical software routines (replace with automation mindset and data handling).
