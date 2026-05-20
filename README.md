@@ -33,6 +33,7 @@ This is that cheat sheet I wish I had.
   the breaker trips.
 - You can clean with vinegar and you can clean with bleach, but never ever
   mix the two because the result is chlorine gas which is leathal.
+- Don't get a cheap stapler. Get one of the Bostitch PaperPro InPower type.
 
 # Kitchen
 
